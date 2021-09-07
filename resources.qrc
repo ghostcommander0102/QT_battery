@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>resources/icons/shutdown-icon.png</file>
+        <file>resources/icons/left.png</file>
+        <file>resources/icons/right.png</file>
+    </qresource>
+    <qresource prefix="/mages">
+        <file>resources/images/logo.png</file>
+        <file>resources/images/background-login.jpg</file>
+        <file>resources/images/login-bg.jpg</file>
+    </qresource>
+</RCC>
